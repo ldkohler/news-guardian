@@ -1,0 +1,11 @@
+{
+    "name": "News-Guardian",
+    "version": "0.1.0",
+    "description": "Fake News Finder",
+    "manifest_version": 3,
+    "author": "fotbal and basking ball team",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Is your news fake?"
+    }
+}
